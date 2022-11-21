@@ -2,8 +2,8 @@
     <v-container>
         тестимониал2
     </v-container>
-  </template>
+</template>
   
-  <script setup>
-  </script>
+<script setup>
+</script>
   

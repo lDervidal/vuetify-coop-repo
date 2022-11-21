@@ -1,9 +1,9 @@
 <template>
     <v-container>
-        боди
+        <h1>Snap photos and share like never before</h1>
     </v-container>
-  </template>
+</template>
   
-  <script setup>
-  </script>
+<script setup>
+</script>
   
