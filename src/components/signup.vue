@@ -5,8 +5,8 @@
                 ut labore</h3>
             </div>
         <div>
-            <v-btn color="secondary" class="text-white ml-8  mr-4 py-1 px-8 button-text" size="large" rounded="lg">Join Today</v-btn>
-            <v-btn variant="outlined" color="secondary" class="py-1 px-8 button-text" size="large" rounded="lg">Contact us</v-btn>
+            <v-btn color="secondary" class="text-white ml-8  mr-4 py-1 px-10 button-text" size="large" rounded="lg">Join Today</v-btn>
+            <v-btn variant="outlined" color="secondary" class="py-1 px-10 button-text" size="large" rounded="lg">Contact us</v-btn>
         </div>
     </v-container>
 </template>
