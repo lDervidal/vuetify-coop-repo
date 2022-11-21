@@ -1,9 +1,8 @@
 <template>
     <v-container>
-        хедер
+        хедир
     </v-container>
-  </template>
-  
-  <script setup>
-  </script>
+</template>
+<script setup>
+</script>
   
