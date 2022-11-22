@@ -13,6 +13,17 @@
   </v-app>
 </template>
 
+<style>
+@font-face {
+  font-family: 'mon';
+  src: url(font/m.ttf) format('truetype');
+}
+
+  * {
+    font-family: 'mon' !important;
+  }
+</style>
+
 <script setup>
   import Header from '@/components/header.vue'
   import Hero from '@/components/hero.vue'
